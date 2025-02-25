@@ -1,0 +1,19 @@
+li.main {
+    display: inline;
+    color: maroon;
+}
+
+body {
+    background-color: pink;
+}
+
+h1 {
+    font-size: xx-large;
+    color: brown
+}
+
+a {
+    padding: 6px;
+    background-color: aqua;
+    text-decoration: none;
+}
